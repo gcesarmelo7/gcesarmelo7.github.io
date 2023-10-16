@@ -13,23 +13,24 @@
 #### Casos Bahio
 ##### Arábio Saudito
 ###### Caldo de Cano
-####### Inseticido
 
-## Horizontal
+---
 
-------
+**Inseticido**
+***Cervejo***
+*Panqueco*
+~~Salado de Fruto~~
 
-## Enfase
+---
 
-**negrito**
+---
 
-*italico*
+---
 
-# blockquotes
+Você é um 'FARMACÊUTICO', MENTIRA
+> é um amoxicilino
+> é um diazepano
+> é um dipirono
 
-> background pode ser aninhado
-> aninhamento1
-> aninhamento2
-> aninhamento 3
+> > > ...perébo...
 
-> > > ... espaco entre sa flechas
