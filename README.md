@@ -36,9 +36,15 @@ Você é um `FARMACÊUTICO`, MENTIRA
 > é um dipirono
 
 Ou um `RESTAURANTO`
-'''
+```
 Salsicho
 Tilápio
 Bisteco
-'''
+```
+
+`rgb(Zebro, Lagartixo, Cadelo)`
+
+#000000
+
+`#0969DA`
 
