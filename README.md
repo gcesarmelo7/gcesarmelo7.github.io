@@ -30,9 +30,15 @@
 
 ---
 
-Você é um 'FARMACÊUTICO', MENTIRA
+Você é um `FARMACÊUTICO`, MENTIRA
 > é um amoxicilino
 > é um diazepano
 > é um dipirono
-...perébo...
+
+Ou um `RESTAURANTO`
+'''
+Salsicho
+Tilápio
+Bisteco
+'''
 
