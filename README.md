@@ -17,8 +17,11 @@
 ---
 
 **Inseticido**
+
 ***Cervejo***
+
 *Panqueco*
+
 ~~Salado de Fruto~~
 
 ---
@@ -31,6 +34,5 @@ Você é um 'FARMACÊUTICO', MENTIRA
 > é um amoxicilino
 > é um diazepano
 > é um dipirono
-
-> > > ...perébo...
+...perébo...
 
