@@ -1,6 +1,8 @@
 # gcesarmelo7.github.io
 
-# preparado, boca aberta?
+# Bem-vindo, boca aberta!
+
+![Pablo](https://th.bing.com/th/id/R.16bf5bfbfdd323abae69103f160b0011?rik=ZNUh2IjBV0lriA&pid=ImgRaw&r=0)
 
 ---
 
@@ -104,12 +106,27 @@ Ufa, quase a page foi de base com a densidade corpórea da moça. #Cringe
 - [ ] Deus me perdoa
 - [X] tá perdoado meu filho 🎉
 
+---
+
+## Ok, agora vamos as frases que admiro e suas referências 🤓
+
 "La plata o plomo"[^1].
 
 O importante é o que importa[^2].
 
 [^1]:Pablito Escobar.
 [^2]: Tireidoku - base de dados japonesa.
+
+<!-- This content will not appear in the rendered Markdown -->
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 
 
 
