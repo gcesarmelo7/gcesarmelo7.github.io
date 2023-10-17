@@ -74,5 +74,11 @@ Ninguém resiste ao [Zé da manga](https://www.bing.com/images/search?view=detai
 
 Ufa, quase a page foi de base com a densidade corpórea da moça. #Cringe
 
+- [x] Deus me perdoa
+- [ ] Deus me perdoa
+- [ ] tá perdoado meu filho 🎉
+
+
+
 
 
