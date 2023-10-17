@@ -2,7 +2,7 @@
 
 # Bem-vindo, boca aberta!
 
-![Pablo](https://th.bing.com/th/id/R.16bf5bfbfdd323abae69103f160b0011?rik=ZNUh2IjBV0lriA&pid=ImgRaw&r=0)
+![Pablo](https://www.capital.ua/uploads/news/2015/09/07/af1ea2b3097501237bb3e0cf897b1091f5ab9d9f.jpg)
 
 ---
 
