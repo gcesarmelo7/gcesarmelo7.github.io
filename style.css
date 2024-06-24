@@ -204,15 +204,9 @@ header h1 {
 .proj-sep {
     display: grid;
     gap: 20px;
-    grid-template-columns: repeat(2, 50%);
+    grid-template-columns: repeat(auto-filt, minmax(50%, 1fr);
 
-    @media (max-width: 880px) {
-        grid-template-columns: repeat(1, 100%);
-    }
-
-    @media (min-width: 1670px) {
-        grid-template-columns: repeat(3, 1fr);
-    }
+    
 }
 
 .projn {
