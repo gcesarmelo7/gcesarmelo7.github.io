@@ -204,7 +204,7 @@ header h1 {
 .proj-sep {
     display: grid;
     gap: 20px;
-    grid-template-columns: repeat(auto-filt, minmax(50%, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(50%, 1fr);
 
     
 }
