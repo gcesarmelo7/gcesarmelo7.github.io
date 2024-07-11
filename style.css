@@ -309,3 +309,8 @@ footer h1::after {
     display: block;
     content: "";
 }
+
+#exp a{
+    color: var(--cor01);
+    text-decoration: underline;
+}
